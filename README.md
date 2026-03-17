@@ -1,4 +1,4 @@
-# clinical-trial-data--management
+# clinical-project-simulation-xp001
 ## 项目概述
 **项目名称**：XP-001
 
